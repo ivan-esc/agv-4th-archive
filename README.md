@@ -1,4 +1,4 @@
-AGV - OMRON PROJECT (Mechatronics Eng. 4th semester FJ24)
+AGV - OMRON PROJECT (Mechatronics Eng. 4th semester FJ25)
 ===================================
 STM32f0Discovery C code and MIT APP Inventor App files designed for the construction of a simple AGV-type differential robot with an elevated platform.
 -----------------------------------
